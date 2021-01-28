@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Niteshkr123&show_icons=true&theme=dark">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Niteshkr123.Niteshkr123">
 
