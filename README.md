@@ -2,7 +2,7 @@ Hi I'm Nitesh kumar 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Backend
+- 🔭 I’m currently working on Open Source Projects.
 - 🌱 I’m currently learning Nodejs
 - 👯 I’m looking to collaborate on LinkedIn
 - 🤔 I’m looking for help with MERN.
